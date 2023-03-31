@@ -1,0 +1,120 @@
+body {
+    background: #000000 url('fundo\ biel.jpg') no-repeat fixed center top;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #000000;
+  }
+    
+
+ 
+ 
+  header {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+  }
+ 
+ 
+  h1 {
+    font-size: 36px;
+    text-align: center;
+    margin: 0;
+  }
+ 
+ 
+  a {
+    color: #00f1e5;
+    text-decoration: none;
+  }
+ 
+ 
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+ 
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ffffff;
+  }
+ 
+  th {
+    background-color: #fffdfd;
+    color: #080808;
+  }
+ 
+
+
+  form {
+    width: 50%;
+    margin: 0 auto;
+  }
+ 
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+ 
+  input[type="text"], select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+ 
+  input[type="submit"] {
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+ 
+  input[type="submit"]:hover {
+    background-color: #ffffff;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #fffbfb;
+  }
+  
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin: 10px 0;
+    font-weight: bold;
+  }
+  
+ 
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ol {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+ 
+  
+ 
+ 
+  
